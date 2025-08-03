@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-08-03T13:32:05.679042",
+  "url": "https://www.finabanknv.com/service-desk/koersen-rates/",
+  "method": "GET",
+  "headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive"
+  },
+  "body": "None",
+  "ip_local": "172.24.64.1",
+  "traceroute": "\nTracing route to www.finabanknv.com [216.144.202.240]\nover a maximum of 30 hops:\n\n  1    <1 ms    <1 ms    <1 ms  COMTREND [192.168.1.1] \n  2   127 ms   102 ms    44 ms  172.28.11.1 \n  3    64 ms     *       25 ms  one.one.one.one [1.0.0.1] \n  4    26 ms    27 ms    26 ms  200.2.162.121 \n  5    51 ms    38 ms    39 ms  190.242.180.32 \n  6    45 ms    52 ms    55 ms  69.79.100.232 \n  7    55 ms    55 ms    55 ms  69.79.100.132 \n  8    90 ms    93 ms    97 ms  69.79.100.216 \n  9    89 ms    89 ms    88 ms  89.221.41.92 \n 10   225 ms    98 ms   104 ms  e0-35.core1.mia1.he.net [216.66.14.237] \n 11     *        *        *     Request timed out.\n 12     *        *        *     Request timed out.\n 13     *      132 ms   122 ms  100ge0-78.core2.ind1.he.net [184.104.198.54] \n 14   129 ms   134 ms   135 ms  100ge0-35.core2.det1.he.net [184.104.192.201] \n 15   120 ms   119 ms   119 ms  telnet-worldwide-inc.e0-2.switch1.det2.he.net [216.66.73.166] \n 16   120 ms   128 ms   171 ms  tnmi-static-182-255-142-209.ip.telnetww.com [209.142.255.182] \n 17     *        *        *     Request timed out.\n 18     *        *        *     Request timed out.\n 19     *        *        *     Request timed out.\n 20     *        *        *     Request timed out.\n 21     *        *        *     Request timed out.\n 22     *        *        *     Request timed out.\n 23     *        *        *     Request timed out.\n 24     *        *        *     Request timed out.\n 25     *        *        *     Request timed out.\n 26     *        *        *     Request timed out.\n 27     *        *        *     Request timed out.\n 28     *        *        *     Request timed out.\n 29     *        *        *     Request timed out.\n 30     *        *        *     Request timed out.\n\nTrace complete.\n"
+}
