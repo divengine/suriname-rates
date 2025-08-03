@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-08-03T15:09:08.587090",
+  "url": "https://www.dsb.sr/",
+  "method": "GET",
+  "headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive"
+  },
+  "body": "None",
+  "ip_local": "172.24.64.1",
+  "traceroute": "Not available"
+}
