@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-08-03T22:30:13.186497",
+  "url": "https://www.finabanknv.com/service-desk/koersen-rates/",
+  "method": "GET",
+  "headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive"
+  },
+  "body": "None",
+  "ip_local": "172.24.64.1",
+  "traceroute": "[disabled]"
+}
